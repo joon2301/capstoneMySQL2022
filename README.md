@@ -2,7 +2,7 @@
 ---
 1. 전체 관계도
 
-<img src="https://user-images.githubusercontent.com/68410822/159906709-5716172d-f1a2-4a81-b655-c217247c9b31.png" width="500" height="400"/>
+<center><img src="https://user-images.githubusercontent.com/68410822/159906709-5716172d-f1a2-4a81-b655-c217247c9b31.png" width="500" height="400"/></center>
 
 2. 파일 설명
   - 1st model.mwb : MySQL Workspace 모델 파일
