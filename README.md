@@ -8,5 +8,5 @@
   - 1st model.mwb : MySQL Workspace 모델 파일
   - init DB&Tables.sql : 위 그림에 있는 모델 선언문
   - insert Date.sql : users, brainTeaser, teaserAnswer, Answer_User_likes 더미 데이터 생성
-  - Database 기획서.docs : 기획서 형식으로 정리한 문서
+  - Database 기획서.docx : 기획서 형식으로 정리한 문서
 
